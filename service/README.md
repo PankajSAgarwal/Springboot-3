@@ -14,3 +14,8 @@ jdk should point to graalvm
 
 ## Check memory footprint used by native code
 <code>ps -o rss \< pid \></code>
+
+## endpoints
+
+<code> http://localhost:8080/customers </code>
+<code> http://localhost:8080/customers/Pankaj </code>

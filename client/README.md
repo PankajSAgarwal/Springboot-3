@@ -7,6 +7,11 @@ http://localhost:9999/graphiql
 ### compile to native graalvm
 <code>./gradlew nativeCompile</code>
 
+### endpoints
+<code> http://localhost:9999/proxy </code>
+<code> http://localhost:9999/graphiql </code>
+
+
 ## Native code is stored at
 <code>./build/native/nativeCompile</code>
 
