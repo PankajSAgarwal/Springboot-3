@@ -18,31 +18,28 @@ http://localhost:9999/graphiql
 <code>ps -o rss \< pid \></code>
 
 ### Query : customers by name
-<code>
-query{
+
+<code>query{
 customerByName(name:"Pankaj"){
 id, name
 }
-}
-</code>
+}</code>
 
 ### Query : get ids of all customers
-<code>
-query {
+
+<code>query {
   customers{
     id
   }
-}
-</code>
+}</code>
 
 ### Query : get ids and profile id of all customers
-<code>
-query {
+
+<code>query {
   customers{
     id, profile{
       id
     }
   }
-}
-</code>
+}</code>
 
