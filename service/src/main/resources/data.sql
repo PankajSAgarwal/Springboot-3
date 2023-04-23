@@ -1,0 +1,8 @@
+insert into customers (name) values ('Pankaj')
+insert into customers (name) values ('Sam')
+insert into customers (name) values ('Josh')
+insert into customers (name) values ('Rahul')
+insert into customers (name) values ('Mathur')
+insert into customers (name) values ('Narendra')
+insert into customers (name) values ('Mamta')
+insert into customers (name) values ('Naveen')

@@ -1,0 +1,4 @@
+rootProject.name = 'Springboot-3'
+include 'service'
+include 'client'
+
